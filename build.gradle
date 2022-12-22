@@ -6,7 +6,7 @@ plugins {
 
 group = 'top.srcrs'
 version = '1.0.9'
-sourceCompatibility = JavaVersion.VERSION_1_8
+sourceCompatibility = JavaVersion.VERSION_1_11
 
 configurations {
     compileOnly {
